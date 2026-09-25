@@ -1,1 +1,1 @@
-![Diagrama](bridge-diagram.jpg)
+![Diagrama](bridge-diagram.png)
